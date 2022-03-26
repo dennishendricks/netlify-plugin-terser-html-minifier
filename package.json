@@ -1,0 +1,29 @@
+{
+  "name": "netlify-plugin-terser-html-minifier",
+  "version": "0.1.0",
+  "description": "A Netlify plugin to minimize all HTML files as a post-processing optimisation, using HTMLMinifier",
+  "main": "index.js",
+  "keywords": [
+    "netlify",
+    "plugin",
+    "html",
+    "htmlmin",
+    "compressor",
+    "compress",
+    "minify",
+    "minifier",
+    "min",
+    "minification"
+  ],
+  "author": "Dennis Hagemeierl",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennishendricks/netlify-plugin-terser-html-minifier"
+  },
+  "bugs": "https://github.com/dennishendricks/netlify-plugin-terser-html-minifier/issues",
+  "dependencies": {
+    "fast-glob": "^3.2.11",
+    "html-minifier-terser": "^7.0.0-alpha.2"
+  }
+}
