@@ -4,7 +4,9 @@ This plugin minifies all your HTML files as a post-processing optimisation, usin
 
 ## Installation
 
-### 1. Add the plugin as a dependency
+### File-based installation
+
+#### 1. Add the plugin as a dependency
 
 ```bash
 
