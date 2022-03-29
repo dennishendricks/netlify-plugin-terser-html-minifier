@@ -14,7 +14,7 @@ module.exports = {
         const out = fs.writeFileSync(file, minified);
         console.log(`✅ Minified ${file}`);
       } catch(err) {
-        utils.build.failPlugin(`❌ ${err}`)
+        console.log(`❌ Failed minimization of ${err}`);
       }    
     }))
   }
