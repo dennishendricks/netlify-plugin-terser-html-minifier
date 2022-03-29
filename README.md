@@ -4,10 +4,6 @@ This plugin minifies all your HTML files as a post-processing optimisation, usin
 
 ## Installation
 
-### UI installation
-
-Want to try this plugin? You can install this plugin in the Netlify UI using [this direct installation link](https://app.netlify.com/plugins/netlify-plugin-terser-html-minifier/install) or browse for the plugin in the [Plugins directory](https://app.netlify.com/plugins). Keep in mind, that you can't customize minification options via the Netlify UI.
-
 ### File-based installation
 
 #### 1. Add the plugin as a dependency
