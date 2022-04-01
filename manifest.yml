@@ -16,3 +16,7 @@ inputs:
       removeOptionalTags: true
       minifyCSS: true
       minifyJS: true
+  - name: debug
+    required: false
+    description: While true log additional information to deploy log
+    default: false

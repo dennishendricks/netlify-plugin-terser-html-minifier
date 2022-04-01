@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-terser-html-minifier",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A Netlify plugin to minimize all HTML files as a post-processing optimisation, using HTMLMinifier",
   "main": "index.js",
   "keywords": [
